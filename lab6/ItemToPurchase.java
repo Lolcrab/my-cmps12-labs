@@ -1,5 +1,3 @@
-package lab1;
-
 public class ItemToPurchase{
 	//private fields such as itemName, itemPrice, and itemQuantity
 	private String itemName;

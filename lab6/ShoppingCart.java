@@ -1,5 +1,3 @@
-package lab1;
-
 public class ShoppingCart {
 
 	//private fields such as customerName, currentDate, and an array of ItemToPurchase objects
